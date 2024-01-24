@@ -1,0 +1,13 @@
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\obj\Debug\RYMApi.csproj.AssemblyReference.cache
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\obj\Debug\RYMApi.Properties.Resources.resources
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\obj\Debug\RYMApi.Form1.resources
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\obj\Debug\RYMApi.csproj.GenerateResource.cache
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\obj\Debug\RYMApi.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\bin\Debug\RYMApi.exe.config
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\bin\Debug\RYMApi.exe
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\bin\Debug\RYMApi.pdb
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\obj\Debug\RYMApi.csproj.CopyComplete
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\obj\Debug\RYMApi.exe
+C:\Users\gomez\Desktop\ServicioApi\Api REST\RYMApi\RYMApi\obj\Debug\RYMApi.pdb
